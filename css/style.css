@@ -19,7 +19,7 @@ html{
 
 body{
     color: #313131;
-    background: #fff;
+    background: #c7c7c7;
 }
 
 .navigation{
@@ -27,7 +27,7 @@ body{
     align-items: center;
     justify-content: space-between;
     padding: 18px 40px;
-    box-shadow: 0 0.1rem 0.5rem #ccc;
+    box-shadow: 0 0.1rem 0.5rem #4fd3fc;
     width: 100%;
     background: #fff;
     transition: all 0.5s;
@@ -96,7 +96,7 @@ body{
 
 .home-text .text-h4{
     font-size: 1.4rem;
-    color: #00ffdd;
+    color: #303030;
     margin-bottom: 1rem;
 }
 
@@ -136,6 +136,10 @@ body{
     font-size: 1.5rem;
     color: white;
     
+}
+
+.sobre ul li{
+    list-style: disc;
 }
 .sobre h2{
     margin-bottom: 5%;
